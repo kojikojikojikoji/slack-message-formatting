@@ -19,7 +19,7 @@ Claude Code:
 
 ```
 mkdir -p ~/.claude/skills
-git clone <this repository URL> ~/.claude/skills/slack-message-formatting
+git clone https://github.com/kojikojikojikoji/slack-message-formatting ~/.claude/skills/slack-message-formatting
 ```
 
 Codex reads `~/.agents/skills/`:
